@@ -1,3 +1,0 @@
-contract HelloNosana {
-    string public greet = "Hello Nosana!";
-}
